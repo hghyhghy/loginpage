@@ -1,6 +1,138 @@
+.as select
+{
+   font-size: medium;
+
+}
+
+.as h3
+{
+  position: absolute;
+  top: 10% ;
+
+  left: 2%;
+}
+
+
+
+
+
+.as i
+{
+  color: blue;
+}
+
+
+.as h1
+{
+
+    font-size: 26px;
+      font-weight: bolder;
+      background-color: black;
+   color:white;
+    border-top-left-radius: 15px ;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  text-align: center;
+  justify-content: center;
+}
+
+.as option
+{
+  font-size: medium;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
+
+
+.as{
+
+   position: absolute;
+
+   top: 64%;
+
+   left: 8%;
+}
+
+.as label
+{
+
+  
+   font-size:larger;
+
+   font-weight: bolder;
+
+   width: 45px;
+
+   /* background: none; */
+   color: white;
+
+   
+
+    background-color:black; 
+   color:white; */
+
+   border-top-left-radius: 15px ;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.cod h3{
+
+  opacity: 100%;
+  
+  
+}
+
+
+.fg:hover
+{
+  background:purple;
+
+  border: 2px solid black;
+}
+
+
+
+
+.cod
+{
+  position: absolute;
+
+  left: 266%;
+
+  background: none;
+
+  display: block;
+
+  border: black;
+}
+
+
+
+
+
+
+
+
 body {
-  background: url('op.jpg') no-repeat center center fixed;
+ 
+
+  background-image: url('g.jpg');
+
+  background-position: cover ;
+
+  background-repeat:repeat;
+
   background-size: cover;
+
+
+  opacity: 49;
+  background-size: cover;
+  /* background-color: white; */
+  /* background-image: linear-gradient(to right , blue, black); */
+  
 }
 
 body {
@@ -13,31 +145,118 @@ body {
 
 }
 
+
+
+
+
 .container {
   /* border: 12px solid black; */
-  color: white;
+  /* color: white; */
   position: absolute;
 
    font-style:inherit;
 
    font-display: swap;
-  top: 12%;
-  left: 37%;
+
+   font-weight: bolder;
+  top: 1%;
+  left: 4%;
   padding: 0.6px 0;
-  color: yellow;
+  color: black;
+  /* background: none; */
+}
+
+.container h1{
+
+  font-weight: bolder;
+
+  border-bottom: yellow;
+
+  border-bottom:  2px solid yellow;
 }
 
 .container h1 {
-  color 
-  display: inline-block;
-  font-size: 40px;
-  font-weight: 500;
+ /* text-shadow:  0 0 3px #FF0000, 00 5px #0000FF; */
+  color:yellow
+ 
+  /* display: inline-block; */
+  /* font-size: 40px; */
+
+
+
+
+
   border-bottom: 5px solid purple;
 
   margin-bottom: 10px;
 
+  
+
+  
+
   /* padding: 13px 0; */
 }
+
+.container h2{
+
+  position: absolute;
+  height: 25%;
+
+  top: 10%;
+
+  left: 266%;
+
+  width: 147px;
+
+  margin-top: 10%;
+
+  /* lighting-color: aliceblue; */
+
+  /* background-image: linear-gradient(to left, skyblue,white); */
+   background:none;
+
+  border-top-left-radius: 15px ;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  text-align: center;
+
+
+}
+
+
+
+
+.f
+{
+  position: absolute;
+
+  border: #FF0000;
+
+  
+
+  top:45%;
+
+  left: 160%;
+
+  font-size: larger;
+
+  border-top-left-radius: 25px ;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+
+  background: none;
+
+
+  
+}
+
+
+
+
+
+
 
 .box {
   width: 100%;
@@ -49,13 +268,19 @@ body {
 .box input {
   /* to make the user input transparent  */
 
-  background: none;
+  /* text-shadow:  0 0 3px black, 00 5px black; */
+
+  color: black;
+
+
+
+  /* background:none */
 
   margin: 12px 0;
 
   padding: 0.5px 10px;
 
-  width: 75%;
+  width: 70%;
 
   font-size: 23px;
 
@@ -63,21 +288,65 @@ body {
 
   outline: none;
 
-  color: white;
+  opacity: 10px;
+
+  border-top-left-radius: 15px ;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+
+  /* color: white; */
 }
 
 .box i {
-  padding: 0 12px;
+
+
+  padding: 0 17px;
+
+  margin-bottom: 6px;
+
+  
+
+
+  height: 25px;
 
   width: 25px;
 
   text-align: center;
 
-  margin: 15px 0;
+  font-size: large;
+
+  font-weight: bolder;
+
+  margin: 16px 0;
+
+  background-color: black;
+
+  color: black;
+
+background: none;
+
+  cursor: pointer;
+
+  text-align: center;
+
+  justify-content: center;
+
+   border-top-left-radius: 10px;
+
+  border-bottom-left-radius: 10px;
+
+  border-top-right-radius: 10px;
+
+  border-bottom-right-radius: 10px;
+
+  
+
+
 }
 
 .btn {
-  background-color: white;
+  background-color: black;
 
   color: white;
 
@@ -94,7 +363,7 @@ body {
 
   outline: none;
 
-  background: none;
+  /* background: none; */
 
   /* margin: 12px 0; */
 
@@ -112,7 +381,7 @@ body {
 }
 
 .pass {
-  background-color: white;
+  background-color: black;
   color: white;
 
   font-weight: bolder;
@@ -126,12 +395,12 @@ body {
 
   position: absolute;
 
-  left: 75%;
+  left: 85%;
 
   top: 99%;
 
   width: 30%;
-  background: none;
+  /* background: none; */
 
   outline: none;
 
@@ -151,7 +420,7 @@ body {
 }
 
 .s {
-  background-color: white;
+  background-color: black;
   color: white;
   position: absolute;
 
@@ -164,7 +433,7 @@ body {
   top: 110%;
 
   left: 30%;
-  background: none;
+  /* background: none; */
 
   justify-content: baseline;
 
@@ -182,7 +451,7 @@ body {
 }
 
 .b {
-  background-color: white;
+  background-color: black;
   color: white;
   position: absolute;
 
@@ -195,7 +464,7 @@ body {
   top: 99%;
 
   left: 30%;
-  background: none;
+  /* background: none; */
 
   font-weight: bolder;
 
