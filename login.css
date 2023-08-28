@@ -1,0 +1,211 @@
+body {
+  background: url('op.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+  margin-top: 0.5px;
+}
+
+.border:hover {
+  color: purple;
+  background: white;
+
+}
+
+.container {
+  /* border: 12px solid black; */
+  color: white;
+  position: absolute;
+
+   font-style:inherit;
+
+   font-display: swap;
+  top: 12%;
+  left: 37%;
+  padding: 0.6px 0;
+  color: yellow;
+}
+
+.container h1 {
+  color 
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 500;
+  border-bottom: 5px solid purple;
+
+  margin-bottom: 10px;
+
+  /* padding: 13px 0; */
+}
+
+.box {
+  width: 100%;
+  /* 
+  border: 2px solid purple; */
+
+  border-bottom: 2px solid black;
+}
+.box input {
+  /* to make the user input transparent  */
+
+  background: none;
+
+  margin: 12px 0;
+
+  padding: 0.5px 10px;
+
+  width: 75%;
+
+  font-size: 23px;
+
+  border: none;
+
+  outline: none;
+
+  color: white;
+}
+
+.box i {
+  padding: 0 12px;
+
+  width: 25px;
+
+  text-align: center;
+
+  margin: 15px 0;
+}
+
+.btn {
+  background-color: white;
+
+  color: white;
+
+  position: absolute;
+
+  top: 102.5%;
+
+  font-weight: bolder;
+  text-align: center;
+
+  cursor: pointer;
+
+  width: 25%;
+
+  outline: none;
+
+  background: none;
+
+  /* margin: 12px 0; */
+
+  padding: 6px;
+
+  border: 2px solid  black;
+
+  border-top-left-radius: 10px;
+
+  border-bottom-left-radius: 10px;
+
+  border-top-right-radius: 10px;
+
+  border-bottom-right-radius: 10px;
+}
+
+.pass {
+  background-color: white;
+  color: white;
+
+  font-weight: bolder;
+  cursor: pointer;
+
+  cursor: pointer;
+
+  text-align: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  left: 75%;
+
+  top: 99%;
+
+  width: 30%;
+  background: none;
+
+  outline: none;
+
+  margin: 12px 0;
+
+  padding: 6px;
+
+  border: 2px solid  black;
+
+  border-top-left-radius: 10px;
+
+  border-bottom-left-radius: 10px;
+
+  border-top-right-radius: 10px;
+
+  border-bottom-right-radius: 10px;
+}
+
+.s {
+  background-color: white;
+  color: white;
+  position: absolute;
+
+  margin: 12px 0;
+
+  padding: 6px;
+
+  cursor: pointer;
+
+  top: 110%;
+
+  left: 30%;
+  background: none;
+
+  justify-content: baseline;
+
+  font-weight: bolder;
+
+  border: 2px solid  black;
+
+  border-top-left-radius: 10px;
+
+  border-bottom-left-radius: 10px;
+
+  border-top-right-radius: 10px;
+
+  border-bottom-right-radius: 10px;
+}
+
+.b {
+  background-color: white;
+  color: white;
+  position: absolute;
+
+  margin: 12px 0;
+
+  padding: 6px;
+
+  cursor: pointer;
+
+  top: 99%;
+
+  left: 30%;
+  background: none;
+
+  font-weight: bolder;
+
+  border: 2px solid black;
+
+  border-top-left-radius: 10px;
+
+  border-bottom-left-radius: 10px;
+
+  border-top-right-radius: 10px;
+
+  border-bottom-right-radius: 10px;
+}
